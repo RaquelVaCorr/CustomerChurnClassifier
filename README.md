@@ -6,6 +6,7 @@ aim is to develop a predictive model for customer churn.
 
 In this notebook contains data cleaning, exploratory analysis, and several
 classifiers models, in order to predict Customer Churn.
+
 Shared files
 
 ● train.csv: the training dataset. Churn is the binary target to predict.

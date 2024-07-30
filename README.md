@@ -4,8 +4,8 @@ objective is to analyze the customer data of account holders to predict and miti
 churn. The provided dataset contains information about the bank's account holders, and the
 aim is to develop a predictive model for customer churn.
 
-You are required to perform data cleaning, an exploratory analysis, and build one or more
-classifiers, in order to predict the Customer Churn.
+In this notebook contains data cleaning, exploratory analysis, and several
+classifiers models, in order to predict Customer Churn.
 Shared files
 
 ● train.csv: the training dataset. Churn is the binary target to predict.
